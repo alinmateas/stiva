@@ -1,0 +1,11 @@
+C:\Users\ALIN\source\repos\Stiva\bin\Debug\netcoreapp3.0\Stiva.exe
+C:\Users\ALIN\source\repos\Stiva\bin\Debug\netcoreapp3.0\Stiva.deps.json
+C:\Users\ALIN\source\repos\Stiva\bin\Debug\netcoreapp3.0\Stiva.runtimeconfig.json
+C:\Users\ALIN\source\repos\Stiva\bin\Debug\netcoreapp3.0\Stiva.runtimeconfig.dev.json
+C:\Users\ALIN\source\repos\Stiva\bin\Debug\netcoreapp3.0\Stiva.dll
+C:\Users\ALIN\source\repos\Stiva\bin\Debug\netcoreapp3.0\Stiva.pdb
+C:\Users\ALIN\source\repos\Stiva\obj\Debug\netcoreapp3.0\Stiva.csprojAssemblyReference.cache
+C:\Users\ALIN\source\repos\Stiva\obj\Debug\netcoreapp3.0\Stiva.AssemblyInfoInputs.cache
+C:\Users\ALIN\source\repos\Stiva\obj\Debug\netcoreapp3.0\Stiva.AssemblyInfo.cs
+C:\Users\ALIN\source\repos\Stiva\obj\Debug\netcoreapp3.0\Stiva.dll
+C:\Users\ALIN\source\repos\Stiva\obj\Debug\netcoreapp3.0\Stiva.pdb

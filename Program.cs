@@ -6,7 +6,17 @@ namespace Stiva
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Stivă<int> st = new Stivă<int>();
+            Stivă<string> str = new Stivă<string>();
+
+            for (int i = 0; i < 11; i++)
+            {
+                st.Push(i);
+            }
+
+            int last = st.Pop();
+
+            st.Clear();
         }
     }
 }
